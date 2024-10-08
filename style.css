@@ -20,7 +20,7 @@ body{
     font-size: 30px;
     font-weight: 600;
     color: #333;
-    align-items: center;
+    text-align: center;
 }
 
 .container textarea{
